@@ -30,9 +30,7 @@ signal into a 1-bit digital output and is a key block of a
 ![Optimised Quantiser Symbol](images/optimised_quantiser_symbol.png)
 
 ## Reference Circuit
-Reference circuit used for designing and validating the quantiser architecture.
-
-![Reference Circuit](Reference circuit/Quantiser_Reference.jpeg)
+![Reference Circuit](reference_circuit/Quantiser_Reference.jpeg)
 
 ## Project Team
 - Likhith Gowda H R
