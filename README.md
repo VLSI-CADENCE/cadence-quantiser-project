@@ -21,18 +21,12 @@ signal into a 1-bit digital output and is a key block of a
 - Output: 1-bit digital waveform
 
 ## Quantiser Schematic
-CMOS quantiser schematic designed using Cadence Virtuoso.
-
 ![Quantiser Schematic](images/quantiser_schematic.png)
 
 ## Quantiser Symbol
-Symbol view of the quantiser used for system-level integration.
-
 ![Quantiser Symbol](images/quantizer_symbol.png)
 
 ## Optimised Quantiser Symbol
-Optimised symbol representation of the quantiser.
-
 ![Optimised Quantiser Symbol](images/optimised_quantiser_symbol.png)
 
 ## Reference Circuit
